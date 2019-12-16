@@ -1,0 +1,13 @@
+.presentation {
+	background-color : #03234D;
+	color: white;
+	padding: 10px;
+}
+
+.presentation p {
+	font-size : 17px;
+	line-height: 1.8;
+	letter-spacing: 1px;
+	text-align: justify;
+}
+
